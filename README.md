@@ -16,8 +16,8 @@ This project encrypts a payload using AES to evade Windows Defender detection. T
 ## 🚀 Installation & Usage  
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone https://github.com/yourusername/yourrepo.git
-cd yourrepo
+git clone https://github.com/ngoducthuan/Stealth-Payload-Encrypted-with-AES.git
+cd Stealth-Payload-Encrypted-with-AES
 ```
 ### 2️⃣ Compile the Project  
 ```sh
